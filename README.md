@@ -24,9 +24,6 @@
   <img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 </p>
 
- 
-
-
 ---
 ### Leetcode Status
 
@@ -37,4 +34,4 @@
 [![Micheal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Micheal-valan&theme=react-dark)](https://github.com/Micheal-Valan/github-readme-activity-graph)
 
 ### Professional Focus
-Machine Learning • Deep Learning • Data Science • Business Intelligence • Emerging AI Systems
+AI Agents • LLM • MCP • RAG • Machine Learning • Deep Learning • Data Science 
