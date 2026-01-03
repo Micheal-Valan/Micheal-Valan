@@ -18,10 +18,10 @@
   </p>
 <p>
     <img width="50" height="50" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 </p>
 
  
