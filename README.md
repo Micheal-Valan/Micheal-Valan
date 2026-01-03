@@ -11,7 +11,7 @@
 
 ---
 
-### 🛠️ I work with
+###  I work with
 
 <p>
   <img width="50" height="50" src="https://img.icons8.com/cotton/64/brain-3.png" alt="brain-3"/>
@@ -24,6 +24,13 @@
 </p>
 
 ---
+### Leetcode Status
 
-### ⚡ Professional Focus
+![LeetCode Stats](https://leetcard.jacoblin.cool/Micheal?theme=nord&font=baloo&ext=heatmap)
+
+### Git Status
+
+[![Micheal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Micheal-valan&theme=react-dark)](https://github.com/Micheal-Valan/github-readme-activity-graph)
+
+### Professional Focus
 Machine Learning • Deep Learning • Data Science • Business Intelligence • Emerging AI Systems
