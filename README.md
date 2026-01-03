@@ -25,11 +25,11 @@
 </p>
 
 ---
-### Leetcode Status
+### Leetcode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Micheal?theme=nord&font=baloo&ext=heatmap)
+![Micheal's LeetCode Status](https://leetcard.jacoblin.cool/Micheal?theme=nord&font=baloo&ext=heatmap)
 
-### Git Status
+### Git Stats
 
 [![Micheal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Micheal-valan&theme=react-dark)](https://github.com/Micheal-Valan/github-readme-activity-graph)
 
